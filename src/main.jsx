@@ -315,11 +315,6 @@ function App() {
             ))}
           </div>
 
-          <p className="project-note">
-            <Sparkles size={15} />
-            Project summaries are intentionally high-level and do not
-            include confidential IBM information.
-          </p>
         </section>
 
         {/* CONTACT */}
